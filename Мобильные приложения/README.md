@@ -79,7 +79,9 @@ mobile_dataset.csv
 mobile_sources.csv
 
 
+## Навыки 
 
+python, pandas, numpy, matplotlib
 
 
 ## Вывод
